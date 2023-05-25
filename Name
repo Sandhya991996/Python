@@ -1,0 +1,4 @@
+name="sandhya"
+age=26
+salary=40.8
+print(name,age,salary)
